@@ -10,6 +10,7 @@ window.estimate.addEventListener('submit', function(event){
   });
 });
 //test
+//asfdsad
 t.render(function(){
   return t.get('card', 'shared', 'estimate')
   .then(function(estimate){
